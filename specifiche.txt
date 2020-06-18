@@ -1,0 +1,28 @@
+Signup: 
+Il browser mostra un form dove è possibile
+registrarsi ed inserire i propri dati (username, password, nome, cognome), il sistema registrerà il nuovo utente salvandosi la data di inscrizione.
+
+Autenticazione: 
+L' utente si autentica con username e password e viene indirizzato alla home.
+
+Visualizzare il mio profilo:
+L' utente autenticato clicca sul link "profilo"  e vengono mostrati tutti i dati personali.
+
+Aggiornare il mio profilo: 
+L'utente può aggiornare i dati del suo profilo cliccando sul bottone "update user" dalla pagina profilo compilare il form e poi salvare i dati cliccando il bottone "update".
+Creare un nuovo progetto:
+L' utente può creare un nuovo progetto selezionando il link "Create new project" nella pagina home compilare il form (nome e descrizione) per poi salvare il tutto cliccando il bottone "add".Visualizzare i miei progetti:
+L' utente può visualizzare i propri progetti selezionando il link "My projects" nella pagina home.
+Visualizzare i progetti condivisi con me:
+L' utente può visualizzare i progetti condivisi con esso selezionando il link "shared with me" nella pagina home, verrà generata una pagina con tutti i progetti dove è membro e i relativi creatori del progetto.Aggiornare i dati di un mio progetto:L' utente una volta selezionato un progetto di cui è proprietario ha la possibilità di modificare i dati relativi a quel progetto.Cancellare un mio progetto:
+L' utente una volta selezionato un progetto di cui è proprietario ha la possibilità di cancellare quel progetto.
+Condividere un mio progetto con un altro utente:
+L' utente una volta selezionato un progetto di cui è proprietario ha la possibilità di condividere quel progetto cliccando il bottone "share", selezionando il futuro membro da una lista contenente tutti gli utenti del sistema.
+Aggiungere un tag ad un mio progetto:
+L' utente una volta selezionato un progetto di cui è proprietario ha la possibilità di  aggiungere un tag ad esso.
+Aggiungere un nuovo Task a un mio progetto:L' utente una volta selezionato un progetto di cui è proprietario ha la possibilità di  aggiungere un task ad esso.
+Aggiornare un Task di un mio progetto:L' utente una volta selezionato un progetto di cui è proprietario ha la possibilità di  aggiornare tutti i task di esso.Cancellare un Task da un mio progetto:L' utente una volta selezionato un progetto di cui è proprietario ha la possibilità di  cancellare i task di esso.
+Assegnare un Task di un mio progetto ad un utente che ha visibilità sul mioprogetto:Il proprietario del progetto ha la possibilità di assegnare task ai membri del progetto.Aggiungere un Tag ad un task di un mio progetto:
+L' utente una volta selezionato un progetto di cui è proprietario ha la possibilità di  aggiungere un tag ad un relativo task del progetto.Aggiungere un Commento ad un Task di un progetto su cui ho visibilità:
+L' utente una volta selezionato un progetto ha la possibilità di  aggiungere un commento ad un relativo task del progetto.
+
